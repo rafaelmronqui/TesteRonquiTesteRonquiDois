@@ -5,6 +5,7 @@ public class Programa {
 		// TODO Auto-generated method stub
 		System.out.println("Oi.");
 		System.out.println("Oi dois.");
+		System.out.println("Oi três");
 	}
 
 }
